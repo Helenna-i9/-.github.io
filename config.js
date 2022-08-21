@@ -6,15 +6,15 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Làm người yêu tớ nha 🥰',
+    title: 'Làm người yêu tớ nha :3 🥰',
     desc: '',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnYes: 'Tớ đồng ý :3',
+    btnNo: 'Không nha =))',
     question: 'Cho tớ biết lí do đi',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu',
+    reply: 'vì tôi yêu bạn ━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━ ',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Hôm nào rãnh thì tui mik đi chơi',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/groups/tek4.vn/'
+    messLink: 'To-tinh.github.io/index.html'
 }
