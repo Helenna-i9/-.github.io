@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Hôm nào rãnh thì tui mik đi chơi',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://helenna-i9.github.io/Loi-to-tinh.github.io/'
+    messLink: 'https://helenna-i9.github.io/To-tinh.github.io/'
 }
