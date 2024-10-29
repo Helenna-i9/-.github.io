@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Love confess",
     introTitle: '🌻🌻🌻',
-    introDesc: `Trái đất rộng lớn và lắm điều thú vị, mà em lại cứ mãi đi nhầm đường. Vậy hay là lần này để anh dẫn em đi khám phá một nơi đặc biệt? Biết đâu giữa lòng thành phố, chúng ta lại tìm thấy niềm vui giản đơn, và... đằng sau những nụ cười là thương mến`,
+    introDesc: `Trái đất rộng lớn và lắm điều thú vị. Vậy hay là lần này để anh dẫn em đi khám phá một nơi đặc biệt? Biết đâu giữa lòng thành phố, chúng ta lại tìm thấy niềm vui giản đơn, và... đằng sau những nụ cười là thương mến`,
     btnIntro: '^^HiHi^^',
     title: 'Đi chơi với anh nha :3 🥰',
     desc: '',
