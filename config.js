@@ -14,5 +14,5 @@ const CONFIG = {
     messDesc: 'Nào mìk đi liền ik 😘',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/ChpHelenna/'
-    <!'https://helenna-i9.github.io/To-tinh.github.io/'>
+
 }
