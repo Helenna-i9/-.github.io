@@ -1,20 +1,18 @@
 const CONFIG = {
     titleWeb: "Love confess",
-    introTitle: 'Who are you',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: '🌻🌻🌻',
+    introDesc: `Trái đất rộng lớn và lắm điều thú vị, mà em lại cứ mãi đi nhầm đường. Vậy hay là lần này để anh dẫn em đi khám phá một nơi đặc biệt? Biết đâu giữa lòng thành phố, chúng ta lại tìm thấy niềm vui giản đơn, và... đằng sau những nụ cười là thương mến`,
     btnIntro: '^^HiHi^^',
-    title: 'Làm người yêu tớ nha :3 🥰',
+    title: 'Đi chơi với anh nha :3 🥰',
     desc: '',
-    btnYes: 'Tớ đồng ý :3',
-    btnNo: 'Không nha =))',
-    question: 'Cho tớ biết lí do đi',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'vì tôi yêu bạn ━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━ ',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Hôm nào rãnh thì tui mik đi chơi',
+    btnYes: 'Dạ đi chơi dới ah lun :3',
+    btnNo: 'Hong á =))',
+    question: 'Khi nèo mik đi zậy 😍',
+    btnReply: 'Gửi cho ah <3',
+    reply: 'vì ah nhớ bé lắm ó ━╬٨ـﮩﮩ❤٨ـﮩﮩـ╬━ ',
+    mess: 'Ah biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
+    messDesc: 'Nào mìk đi liền ik 😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://helenna-i9.github.io/To-tinh.github.io/'
+    messLink: 'https://www.facebook.com/ChpHelenna/'
+    <!'https://helenna-i9.github.io/To-tinh.github.io/'>
 }
